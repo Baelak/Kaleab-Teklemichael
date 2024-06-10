@@ -21,10 +21,10 @@ header.header{
     text-decoration: none;
     width: 75px;
     height: 95px;
-    padding-left: 10px;
+    padding-left: 15px;
     float: left;
     position: relative;
-    left: 25px;
+    left: 50px;
     border-bottom-right-radius: 25px;
     border-top-right-radius: 45px;
     border-top-left-radius: 25px;
