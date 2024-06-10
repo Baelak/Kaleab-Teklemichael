@@ -24,7 +24,7 @@ header.header{
     padding-left: 15px;
     float: left;
     position: relative;
-    left: 50px;
+    left: 40px;
     border-bottom-right-radius: 25px;
     border-top-right-radius: 45px;
     border-top-left-radius: 25px;
@@ -77,11 +77,6 @@ header.header{
 .dropdown:hover .dropdown-content{
     display: block;
 }
-@media only screen and (max-width: 768px) {
-    header.header{
-      flex-direction: column;
-    }
-  }
 
                         /*ፎቶ እና መግቢያ ~ PHOTO AND INTRO*/
 
