@@ -77,6 +77,11 @@ header.header{
 .dropdown:hover .dropdown-content{
     display: block;
 }
+@media only screen and (max-width: 768px) {
+    header.header{
+      flex-direction: column;
+    }
+  }
 
                         /*ፎቶ እና መግቢያ ~ PHOTO AND INTRO*/
 
